@@ -16,6 +16,8 @@ class TablePeta extends Migration
         Schema::create('peta', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('nameKota');
+            $table->string('latitude');
+            $table->string('longitude');
             $table->timestamps();
         });
     }

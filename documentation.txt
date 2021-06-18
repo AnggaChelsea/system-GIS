@@ -1,0 +1,26 @@
+Bagi user :
+- web SIG pariwisata ini dapat menampilkan 4 fitur, yaitu objek wisata, penginapan (hotel), oleh-oleh khas daerah, dan event yg di adakan di kota tersebut. Jdi ke 4 fitur ini dapat membantu user untuk pergi menuju ke tempat yang di inginkannya dengan rute terdekat yang sudah di tentukan dengan metode algoritma dijkstra agar user tidak perlu menempuh jarak yang jauh lagi.
+- Kemudian ketika user ingin menuju ke objek wisata ataupun penginapan dan oleh² khas daerah (untuk event itu update krna bisa berubah²) dari titik user berada ke tempat tujuan yg ingin di tuju maka titik yg di tujunya itu juga akan memunculkan rekomendasi seperti contoh user ingin ke objek salah satu wisata maka akan muncul rekomendasi tmpat penginapan terdekat, oleh² khas daerah dan event(jika di adakan) ataupun sebaliknya begitu jga.
+- Trus user juga dapat seperti user bisa menambah titik lokasi yang belum terdaftar di SIG tersebut (kalau bisa mas nya)
+
+Bagi admin :
+- untuk admin mungkin mas nya sudah tau ya seperti bagian crud dll dan bisa menentukan rute terdekat dari titik ke titik lain beserta yg lainnya.
+
+Untuk lokasi itu di kota medan mas.
+
+
+-------------------------------------
+https://drive.google.com/file/d/1_3JTxcfByVlCYnbe9EvOA_RY2wvCcg_0/view?usp=sharing
+ini prototipe usernya, kurang lbihnya seperti ini mas..tpi msih kurang dri tampilan bagian yg user bisa buat titik lokasi yg belum terdaftar
+-------------------------------------
+
+
+
+admin.
+
+-------------------------------------------------------------------
+
+https://drive.google.com/drive/folders/1LRdx4RceGQqCP6lEYbJxgd01hXORu8Vi?usp=sharing
+dan ini link referensi dashboard adminnya mas biar masnya bisa riset dlu, krna saya baru sempat mengerjakan yg user dlu untuk di desain
+
+--------------------------------------------------------------------
